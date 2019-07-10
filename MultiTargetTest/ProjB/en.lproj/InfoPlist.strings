@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  MultiTargetTest
+
+  Created by 銘哲吳 on 2019/7/10.
+  Copyright © 2019 freedancer. All rights reserved.
+*/
+"CFBundleDisplayName" = "french fries";
+"CFBundleName" = "MultiProjB";
