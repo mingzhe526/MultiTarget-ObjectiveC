@@ -30,3 +30,7 @@
 
 ### Useing Preprocessor Macros (if need)
 ![Image](https://github.com/mingzhe526/MultiTarget-ObjectiveC/blob/master/description/slider-preprocessor-macro-use.jpg)
+
+### screenshot
+![Image](https://github.com/mingzhe526/MultiTarget-ObjectiveC/blob/master/description/slider-app-eng.jpg)
+![Image](https://github.com/mingzhe526/MultiTarget-ObjectiveC/blob/master/description/slider-app-cht.jpg)
